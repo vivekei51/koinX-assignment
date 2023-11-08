@@ -1,0 +1,15 @@
+.label{
+    font-size: 10px;
+}
+.slt{
+    width: 167%;
+    text-align: left;
+    align-items: flex-start;
+    font-size: 14px;
+}
+@media screen and (max-width: 780px) {
+    .slt{
+    width: 143%;
+   } 
+    
+  }
